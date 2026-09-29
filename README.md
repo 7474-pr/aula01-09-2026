@@ -8,7 +8,8 @@ Abra `index.html` em um navegador. Não é necessário instalar dependências.
 
 ## Publicar no GitHub Pages
 
-No repositório, acesse **Settings > Pages**, escolha **Deploy from a branch**, selecione a branch `main` e a pasta `/ (root)`, depois salve. O GitHub disponibilizará o endereço publicado nessa mesma página.
+No repositório, acesse **Settings > Pages**, escolha **Deploy from a branch** e
+selecione a branch `feat/site-orbita` com a pasta `/ (root)`. O GitHub disponibilizará o endereço publicado nessa mesma página.
 
 ## Observações
 
